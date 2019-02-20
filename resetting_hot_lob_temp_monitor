@@ -1,7 +1,7 @@
 Reset hot lobs:
-1) ssh pi@169.231.153.90
+1) ssh pi@169.231.156.16
 2) enter password
 3) tls (lists the currently running sessions)
 4) ta main (jump into session)
-5) python3 -m project_lob.entrypont -hm: command to run hot lob monitor
+5) python3 -m project_lob.entrypoint -hm: command to run hot lob monitor OR python3 -m project_lob.entrypoint -hm
 6) should end with Resetting Timer!
